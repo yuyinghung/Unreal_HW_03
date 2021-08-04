@@ -2300,3 +2300,76 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.04-14.31.06:936][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rainier)
 [2021.08.04-14.34.59:280][951]LogRenderer: Reallocating scene render targets to support 1056x880 Format 10 NumSamples 1 (Frame:1).
 [2021.08.04-14.35.05:939][738]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.04-16.12.21:595][294]Cmd: TRANSACTION UNDO
+[2021.08.04-16.12.21:595][294]LogEditorTransaction: Undo Translate Socket
+[2021.08.04-16.12.21:652][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-16.12.24:017][525]Cmd: TRANSACTION UNDO
+[2021.08.04-16.12.24:017][525]LogEditorTransaction: Undo Translate Socket
+[2021.08.04-16.12.24:067][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-16.12.29:786][179]Cmd: TRANSACTION UNDO
+[2021.08.04-16.12.29:786][179]LogEditorTransaction: Undo Translate Bone
+[2021.08.04-16.12.29:838][179]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-16.14.14:751][  2]Cmd: TRANSACTION UNDO
+[2021.08.04-16.14.14:751][  2]LogEditorTransaction: Undo Remove All Attached Assets
+[2021.08.04-16.14.14:766][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:010D
+[2021.08.04-16.14.14:766][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:019D
+[2021.08.04-16.14.14:766][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:01CF
+[2021.08.04-16.14.14:768][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:010D
+[2021.08.04-16.14.14:768][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:019D
+[2021.08.04-16.14.14:769][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:01CF
+[2021.08.04-16.14.14:825][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-16.14.26:142][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:010D
+[2021.08.04-16.14.26:142][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:019D
+[2021.08.04-16.14.26:142][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:01CF
+[2021.08.04-16.14.35:910][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:010D
+[2021.08.04-16.14.35:910][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:019D
+[2021.08.04-16.14.35:910][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:01CF
+[2021.08.04-16.14.51:862][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/theboss" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/characters/theboss.uasset" SILENT=true
+[2021.08.04-16.14.51:991][ 39]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/theboss25ED6CDF444DBD45F6A9B381254AF419.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/characters/theboss.uasset'
+[2021.08.04-16.14.52:005][ 39]AssetCheck: New page: Asset Save: theboss
+[2021.08.04-16.14.52:005][ 39]LogContentValidation: Display: Validating SkeletalMesh /Game/characters/theboss.theboss
+[2021.08.04-16.15.08:034][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/secret_garden" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/map/secret_garden.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.04-16.15.08:062][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.08.04-16.15.09:886][827]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/secret_gardenCEC013D54907FA1CF63579ABACBDEFF6.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/map/secret_garden.umap'
+[2021.08.04-16.15.09:903][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/secret_garden_BuiltData" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/map/secret_garden_BuiltData.uasset" SILENT=true
+[2021.08.04-16.15.19:528][827]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/secret_garden_BuiltData577A18E54EDF4CE25489E7A4D131C717.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/map/secret_garden_BuiltData.uasset'
+[2021.08.04-16.15.19:589][827]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.04-16.15.19:589][827]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map/secret_garden_BuiltData.secret_garden_BuiltData
+[2021.08.04-16.15.19:589][827]LogContentValidation: Display: Validating World /Game/map/secret_garden.secret_garden
+[2021.08.04-16.17.19:268][943]Cmd: TRANSACTION UNDO
+[2021.08.04-16.17.19:268][943]LogEditorTransaction: Undo Add Component
+[2021.08.04-16.17.19:338][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-16.18.56:807][837]Cmd: TRANSACTION UNDO
+[2021.08.04-16.18.56:807][837]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2021.08.04-16.18.56:905][837]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.04-16.19.20:152][383]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ba_character_anim_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ba_character_anim_C_0
+	Function /Game/bp/ba_character_anim.ba_character_anim_C:ExecuteUbergraph_ba_character_anim:010D
+[2021.08.04-16.19.24:423][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/characters/theboss" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/characters/theboss.uasset" SILENT=true
+[2021.08.04-16.19.24:545][869]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/thebossB1CA76C247E7482713C3438C9A616960.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/characters/theboss.uasset'
+[2021.08.04-16.19.24:558][869]AssetCheck: New page: Asset Save: theboss
+[2021.08.04-16.19.24:558][869]LogContentValidation: Display: Validating SkeletalMesh /Game/characters/theboss.theboss
