@@ -1059,3 +1059,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.05-08.38.23:253][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.05-08.38.23:301][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
 [2021.08.05-08.38.23:314][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.05-08.39.08:163][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.08.05-08.39.08:172][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.035
+[2021.08.05-08.39.08:172][409]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton] ([1] browsable assets)...
+[2021.08.05-08.39.08:172][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton]
+[2021.08.05-08.39.08:173][409]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/SK_AR4_Skeleton_Auto285B1CC304F797BD16B9731A65A92E22D.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/Autosaves/Game/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton_Auto2.uasset'
+[2021.08.05-08.39.08:173][409]LogFileHelpers: Auto-saving content packages took 0.002
