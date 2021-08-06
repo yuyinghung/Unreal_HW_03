@@ -1248,3 +1248,70 @@ Make sure 'bp_controller_C' has been compiled for  Get money_total
 [2021.08.05-15.45.19:391][206]LogAudioMixer: Resetting audio stream to device id 
 [2021.08.05-15.45.19:408][206]LogAudioMixer: Display: 0: FrontLeft
 [2021.08.05-15.45.19:408][206]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-19.58.12:040][549]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.08.05-19.58.12:040][549]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.05-19.58.12:041][549]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.08.06-02.22.34:054][596]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{6fe68c16-92a6-4038-9246-f920e3f1387d}.
+[2021.08.06-02.22.34:054][596]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.06-02.22.34:054][596]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.08.06-02.22.34:059][596]LogAudioMixer: Warning: Did not find the channel type flags for audio device '耳機 (KTNET SB100 Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.06-02.22.34:059][596]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-02.22.34:059][596]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-02.22.39:121][597]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.06-02.22.39:143][597]LogAudioMixer: Warning: Did not find the channel type flags for audio device '耳機 (KTNET SB100 Hands-Free AG Audio)'. Reverting to a default channel ordering.
+[2021.08.06-02.22.39:143][597]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-02.22.39:143][597]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-02.22.39:185][597]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 1271)
+[2021.08.06-02.22.39:446][598]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.08.06-02.22.39:446][598]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.06-02.22.39:446][598]LogAudioMixer: Display: StartRunningNullDevice() called
+[2021.08.06-02.22.39:772][600]LogAudioMixer: Warning: Changing default audio render device to new device: .
+[2021.08.06-02.22.42:778][608]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4b1405d8-78b4-4489-b32a-490c895e66f3}.
+[2021.08.06-02.22.42:778][608]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.06-02.22.42:778][608]LogAudioMixer: Display: StopRunningNullDevice() called
+[2021.08.06-02.22.42:801][608]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.06-02.22.42:801][608]LogAudioMixer: Display: 1: FrontRight
+[2021.08.06-02.27.11:726][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.08.06-02.27.11:730][432]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/map/secret_garden' took 0.038
+[2021.08.06-02.27.11:730][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp/bp_controller] ([1] browsable assets)...
+[2021.08.06-02.27.11:752][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp/bp_controller.bp_controller]
+[2021.08.06-02.27.11:752][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_controller]
+[2021.08.06-02.27.11:752][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_controller" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-02.27.11:782][432]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/bp_controller_Auto66E1561954B0E46A09AC08EB421294AEC.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/Autosaves/Game/bp/bp_controller_Auto6.uasset'
+[2021.08.06-02.27.11:784][432]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bp/bp_game_interface] ([1] browsable assets)...
+[2021.08.06-02.27.11:784][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp/bp_game_interface]
+[2021.08.06-02.27.11:784][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_game_interface" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/Autosaves/Game/bp/bp_game_interface_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.08.06-02.27.11:817][432]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/bp_game_interface_Auto66AE8C6094F37C5A257B7B4B227B6373F.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/Autosaves/Game/bp/bp_game_interface_Auto6.uasset'
+[2021.08.06-02.27.11:818][432]LogFileHelpers: Auto-saving content packages took 0.088
+[2021.08.06-03.09.18:987][457]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-03.09.19:000][457]LogBlueprint: Warning: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] Could not find a variable named "money_counts" in 'bp_controller_C'.
+Make sure 'bp_controller_C' has been compiled for  Get money_counts
+[2021.08.06-03.09.19:000][457]LogBlueprint: Warning: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] Could not find a variable named "money_total" in 'bp_controller_C'.
+Make sure 'bp_controller_C' has been compiled for  Get money_total
+[2021.08.06-03.09.19:002][457]LogBlueprint: Error: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/bp/bp_game_interface.bp_game_interface_C'
+[2021.08.06-03.09.19:042][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.08.06-03.11.13:117][106]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-03.11.13:123][106]LogBlueprint: Error: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/bp/bp_game_interface.bp_game_interface_C'
+[2021.08.06-03.11.13:163][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.08.06-03.11.13:755][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/bp_game_interface" FILE="D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/bp/bp_game_interface.uasset" SILENT=true
+[2021.08.06-03.11.13:788][166]LogSavePackage: Moving 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Saved/bp_game_interfaceEAE62C3D4890584AD22333B083B7F3C7.tmp' to 'D:/yuying/Unreal_HW_03/HW_03_scene/HW_01_Scene/Content/bp/bp_game_interface.uasset'
+[2021.08.06-03.11.13:804][166]AssetCheck: New page: Asset Save: bp_game_interface
+[2021.08.06-03.11.13:805][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/bp/bp_game_interface.bp_game_interface
+[2021.08.06-03.11.14:836][272]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-03.11.14:842][272]LogBlueprint: Error: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/bp/bp_game_interface.bp_game_interface_C'
+[2021.08.06-03.11.14:898][272]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.08.06-03.11.15:634][357]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-03.11.15:640][357]LogBlueprint: Error: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/bp/bp_game_interface.bp_game_interface_C'
+[2021.08.06-03.11.15:678][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.08.06-03.11.15:845][374]BlueprintLog: New page: Compile bp_game_interface
+[2021.08.06-03.11.15:851][374]LogBlueprint: Error: [AssetLog] D:\yuying\Unreal_HW_03\HW_03_scene\HW_01_Scene\Content\bp\bp_game_interface.uasset: [Compiler] The property associated with  Weapon  could not be found in '/Game/bp/bp_game_interface.bp_game_interface_C'
+[2021.08.06-03.11.15:889][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.08.06-03.11.38:335][593]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.06-03.11.38:342][593]BlueprintLog: Warning: Blueprint failed to compile:  bp_game_interface
+[2021.08.06-03.11.38:342][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.06-03.11.38:347][593]LogPlayLevel: [PlayLevel] Compiling bp_controller before play...
+[2021.08.06-03.11.38:393][593]LogPlayLevel: [PlayLevel] Compiling bp_bullet before play...
+[2021.08.06-03.11.38:449][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.08.06-03.11.38:450][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (2 blueprints)
+[2021.08.06-03.11.38:451][593]LogCustomDialog: Dialog displayed:
+[2021.08.06-03.11.42:551][593]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
